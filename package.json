@@ -1,6 +1,6 @@
 {
   "name": "basic-shopify-tester",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "For testing shopify webhooks and stuff",
   "main": "index.js",
   "scripts": {
