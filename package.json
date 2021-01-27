@@ -1,18 +1,28 @@
 {
-  "name": "shopify-tester",
+  "name": "basic-shopify-tester",
   "version": "1.0.0",
   "description": "For testing shopify webhooks and stuff",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Joshua D Bitossi",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "nodemon": "^1.19.4",
     "path": "^0.12.7",
     "request": "^2.88.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmijazz/shopify-tester.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jimmijazz/shopify-tester/issues"
+  },
+  "homepage": "https://github.com/jimmijazz/shopify-tester#readme"
 }
